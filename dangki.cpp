@@ -21,7 +21,7 @@ dangki::~dangki()
 {
     delete ui;
 }
-
+asdfh
 void dangki::on_pushButton_dangki_clicked()
 {
     QString hoten,tendangnhap,matkhau,xnmatkhau,xnmail,mail,CMND,sdt,ngay,thang,nam,ngaysinh,gioitinh, chucvu ,xnchucvu;
